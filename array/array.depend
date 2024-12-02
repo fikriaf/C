@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701054892 source:c:\users\user\documents\script\c\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

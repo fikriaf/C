@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701659390 source:c:\users\user\documents\script\c\array3\main.c
+	<stdio.h>
+	<windows.h>
+

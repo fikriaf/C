@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696817228 source:c:\users\user\documents\script\c\for\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
+1696817667 source:c:\users\user\documents\script\c\for\tes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+

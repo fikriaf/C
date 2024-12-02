@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695086658 source:c:\users\user\documents\script\c\warna_fikri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

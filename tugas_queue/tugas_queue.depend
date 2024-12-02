@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714633263 source:d:\script\c\tugas_queue\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701653537 source:c:\users\user\documents\script\c\tugas_matriks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703748931 source:c:\users\user\documents\script\c\uas_2_fikri armia fahmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1703750218 source:d:\script\c\uas_2_fikri armia fahmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

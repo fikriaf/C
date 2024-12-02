@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695610217 source:c:\users\user\documents\script\c\tugas_25_sep_2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+

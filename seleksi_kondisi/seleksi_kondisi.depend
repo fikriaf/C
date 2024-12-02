@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695087755 source:c:\users\user\documents\script\c\seleksi_kondisi\main.c
+	<stdio.h>
+	<stdlib.h>
+

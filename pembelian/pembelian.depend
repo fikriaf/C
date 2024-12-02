@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696812619 source:c:\users\user\documents\script\c\pembelian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+

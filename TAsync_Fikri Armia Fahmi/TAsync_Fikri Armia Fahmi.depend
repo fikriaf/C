@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700462868 source:c:\users\user\documents\script\c\tasync_fikri armia fahmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1700462868 source:d:\script\c\tasync_fikri armia fahmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

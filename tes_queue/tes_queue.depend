@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715841210 source:d:\script\c\tes_queue\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

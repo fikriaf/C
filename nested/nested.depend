@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696214714 source:c:\users\user\documents\script\c\nested\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714637336 source:d:\script\c\queue del and insert\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

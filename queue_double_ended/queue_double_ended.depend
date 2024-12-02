@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715775151 source:d:\script\c\queue_double_ended\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

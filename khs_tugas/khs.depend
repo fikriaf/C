@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699102780 source:c:\users\user\documents\script\c\khs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1699236173 source:d:\script\c\khs_tugas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
